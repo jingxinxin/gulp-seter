@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+gulp/
+gulpfile.js
+package.json
+node_modules/
