@@ -6,7 +6,5 @@ out
 gen
 .gitignore
 .idea/
-gulp/
-gulpfile.js
 package.json
 node_modules/
