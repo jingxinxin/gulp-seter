@@ -6,10 +6,18 @@ const d = '';
 
 module.exports = {
   version: {
-    fuck: {
-      url: './local_gulp/fuck'
+    basic: {
+      url: './node_modules/@gulp-seter/basic',
+      npm: ''
     },
-    basic: './local_gulp/basic'
+    fuck: {
+      url: './node_modules/@gulp-seter/fuck',
+      npm: 'https://www.npmjs.com/package/@gulp-seter/fuck'
+    },
+    boyce: {
+      url: './node_modules/@gulp-seter/boyce',
+      npm: 'https://www.npmjs.com/package/@gulp-seter/boyce'
+    }
   },
-  default: this.version
+  default: 'node_modules/@gulp-seter'
 };

@@ -1,6 +1,6 @@
 {
   "name": "gulp-seter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "seter",
   "main": "gulpfile.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "//": "tasks required devDependencies",
   "devDependencies": {
     "@gulp-seter/boyce": "^1.0.0",
+    "@gulp-seter/fuck": "^1.0.0",
     "require-dir": "^0.3.0"
   },
   "dependencies": {

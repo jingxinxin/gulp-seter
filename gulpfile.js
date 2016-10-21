@@ -1,6 +1,5 @@
 var requireDir = require('require-dir');
 var gulpconfig = require('./gulpconfig');
-var boyce = require('@gulp-seter/boyce');
 
 
 // 选择你想要的gulp组合
